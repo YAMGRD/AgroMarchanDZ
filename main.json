@@ -10,11 +10,11 @@
             "description": "A high-quality widget with many useful features.",
             "images": [
                 {
-                    "imagePath": "path/to/image1.jpg",
+                    "imagePath": "https://media.newyorker.com/photos/61a5800b07516aaf7967f1ee/master/w_2560%2Cc_limit/Monroe-OldTrucksNewMoney.jpg",
                     "size": "1200x800"
                 },
                 {
-                    "imagePath": "path/to/image2.jpg",
+                    "imagePath": "https://media.newyorker.com/photos/61a5800b07516aaf7967f1ee/master/w_2560%2Cc_limit/Monroe-OldTrucksNewMoney.jpg",
                     "size": "800x600"
                 }
             ],
@@ -28,11 +28,11 @@
             "description": "A durable widget that is built to last.",
             "images": [
                 {
-                    "imagePath": "path/to/image3.jpg",
+                    "imagePath": "https://media.newyorker.com/photos/61a5800b07516aaf7967f1ee/master/w_2560%2Cc_limit/Monroe-OldTrucksNewMoney.jpg",
                     "size": "1600x1200"
                 },
                 {
-                    "imagePath": "path/to/image4.jpg",
+                    "imagePath": "https://media.newyorker.com/photos/61a5800b07516aaf7967f1ee/master/w_2560%2Cc_limit/Monroe-OldTrucksNewMoney.jpg",
                     "size": "800x600"
                 }
             ],
@@ -46,11 +46,11 @@
             "description": "An affordable widget that is perfect for budget-conscious buyers.",
             "images": [
                 {
-                    "imagePath": "path/to/image5.jpg",
+                    "imagePath": "https://media.newyorker.com/photos/61a5800b07516aaf7967f1ee/master/w_2560%2Cc_limit/Monroe-OldTrucksNewMoney.jpg",
                     "size": "1200x800"
                 },
                 {
-                    "imagePath": "path/to/image6.jpg",
+                    "imagePath": "https://media.newyorker.com/photos/61a5800b07516aaf7967f1ee/master/w_2560%2Cc_limit/Monroe-OldTrucksNewMoney.jpg",
                     "size": "800x600"
                 }
             ],
