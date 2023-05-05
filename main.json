@@ -1,25 +1,60 @@
 {
-    "products": [
+    "status": "success",
+    "message": "Product data retrieved successfully",
+    "data": [
         {
             "productName": "Widget A",
             "quantity": 100,
             "dealerName": "ABC Company",
             "price": 9.99,
-            "description": "A high-quality widget with many useful features."
+            "description": "A high-quality widget with many useful features.",
+            "images": [
+                {
+                    "imagePath": "path/to/image1.jpg",
+                    "size": "1200x800"
+                },
+                {
+                    "imagePath": "path/to/image2.jpg",
+                    "size": "800x600"
+                }
+            ],
+            "rating": 4.5
         },
         {
             "productName": "Widget B",
             "quantity": 50,
             "dealerName": "XYZ Inc.",
             "price": 14.99,
-            "description": "A durable widget that is built to last."
+            "description": "A durable widget that is built to last.",
+            "images": [
+                {
+                    "imagePath": "path/to/image3.jpg",
+                    "size": "1600x1200"
+                },
+                {
+                    "imagePath": "path/to/image4.jpg",
+                    "size": "800x600"
+                }
+            ],
+            "rating": 4.2
         },
         {
             "productName": "Widget C",
             "quantity": 200,
             "dealerName": "123 Corp.",
             "price": 7.99,
-            "description": "An affordable widget that is perfect for budget-conscious buyers."
+            "description": "An affordable widget that is perfect for budget-conscious buyers.",
+            "images": [
+                {
+                    "imagePath": "path/to/image5.jpg",
+                    "size": "1200x800"
+                },
+                {
+                    "imagePath": "path/to/image6.jpg",
+                    "size": "800x600"
+                }
+            ],
+            "rating": 4.8
         }
     ]
 }
