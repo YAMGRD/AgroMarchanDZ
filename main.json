@@ -11,8 +11,16 @@
             "description": "A high-quality widget with many useful features.",
             "images": 
                 {
-                    "imagePath": "https://c1.wallpaperflare.com/preview/88/781/192/computer-designer-desk-display.jpg",
-                    "size": "1200x800"
+                    [
+                        "image":{
+                                    "imagePath": "https://c1.wallpaperflare.com/preview/88/781/192/computer-designer-desk-display.jpg",
+                            "size": "1200x800",
+                            },
+                            "image":{
+                                    "imagePath": "https://c1.wallpaperflare.com/preview/88/781/192/computer-designer-desk-display.jpg",
+                            "size": "1200x800",
+                            },
+                    ]
                 },
             "rating": 4.5
         },
