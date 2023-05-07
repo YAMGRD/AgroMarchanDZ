@@ -7,6 +7,7 @@
             "quantity": 100,
             "dealerName": "ABC Company",
             "price": 9.99,
+            "phoneNumber":"06-32-45-98-22",
             "description": "A high-quality widget with many useful features.",
             "images": 
                 {
@@ -18,6 +19,7 @@
         {
             "productName": "Widget B",
             "quantity": 50,
+            "phoneNumber":"06-32-45-98-22",
             "dealerName": "XYZ Inc.",
             "price": 14.99,
             "description": "A durable widget that is built to last.",
@@ -32,6 +34,7 @@
             "productName": "Widget C",
             "quantity": 200,
             "dealerName": "123 Corp.",
+            "phoneNumber":"06-32-45-98-22",
             "price": 7.99,
             "description": "An affordable widget that is perfect for budget-conscious buyers.",
             "images": 
