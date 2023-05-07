@@ -3,61 +3,46 @@
     "message": "Product data retrieved successfully",
     "data": [
         {
-            "productName": "Computer Lenovo",
+            "productName": "Widget A",
             "quantity": 100,
-            "dealerName": "Gridi Mohamed yakoub",
+            "dealerName": "ABC Company",
             "price": 9.99,
+            "phoneNumber":"06-32-45-98-22",
             "description": "A high-quality widget with many useful features.",
-            "images": [
+            "images": 
                 {
                     "imagePath": "https://c1.wallpaperflare.com/preview/88/781/192/computer-designer-desk-display.jpg",
                     "size": "1200x800"
                 },
-                {
-                    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-jicjl9INnVC7lHEAQD3Cd3zX1yylx7RMw&usqp=CAU",
-                    "size": "800x600"
-                }
-            ],
-            "rating": 4.5,
-            "phoneNumber": "555-1234"
+            "rating": 4.5
         },
         {
-            "productName": "Batata",
+            "productName": "Widget B",
             "quantity": 50,
-            "dealerName": "SAMER AMRI.",
+            "phoneNumber":"06-32-45-98-22",
+            "dealerName": "XYZ Inc.",
             "price": 14.99,
             "description": "A durable widget that is built to last.",
-            "images": [
+            "images": 
                 {
-                    "imagePath": "https://www.caterite.co.uk/media/catalog/product/cache/392c3f40a6c0d2d4bb5ca71ac305d882/6/c/6c0922112248c9820fc01f592ce6e4eb.jpg",
-                    "size": "1600x1200"
-                },
-                {
-                    "imagePath": "https://cdn-prod.medicalnewstoday.com/content/images/articles/280/280579/potatoes-can-be-healthful.jpg",
-                    "size": "800x600"
-                }
-            ],
-            "rating": 4.2,
-            "phoneNumber": "555-5678"
-        },
-        {
-            "productName": "Camion",
-            "quantity": 200,
-            "dealerName": "AZRI Soufiane",
-            "price": 7.99,
-            "description": "An affordable widget that is perfect for budget-conscious buyers.",
-            "images": [
-                {
-                    "imagePath": "https://cdn8.ouedkniss.com/medias/announcements/images/r0XGx4/xNs2xL1dKrHPq8jYNJlcpZJTjRkQIexHB9kC4yf4.jpg",
+                    "imagePath": "https://media.newyorker.com/photos/61a5800b07516aaf7967f1ee/master/w_2560%2Cc_limit/Monroe-OldTrucksNewMoney.jpg",
                     "size": "1200x800"
                 },
+            "rating": 4.2
+        },
+        {
+            "productName": "Widget C",
+            "quantity": 200,
+            "dealerName": "123 Corp.",
+            "phoneNumber":"06-32-45-98-22",
+            "price": 7.99,
+            "description": "An affordable widget that is perfect for budget-conscious buyers.",
+            "images": 
                 {
-                    "imagePath": "https://cdn8.ouedkniss.com/1600/medias/announcements/images/G61978/tGMylANGVj5Hae3SWbJ0wT9lX4vDr868Oq44lLFo.jpg",
-                    "size": "800x600"
-                }
-            ],
-            "rating": 4.8,
-            "phoneNumber": "555-9012"
+                    "imagePath": "https://hips.hearstapps.com/hmg-prod/images/why-you-should-never-store-potatoes-in-the-fridge-640b0b8a0a49a.jpg",
+                    "size": "1200x800"
+                },
+            "rating": 4.8
         }
     ]
 }
