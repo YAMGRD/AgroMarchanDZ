@@ -3,18 +3,18 @@
     "message": "Product data retrieved successfully",
     "data": [
         {
-            "productName": "Widget A",
+            "productName": "Computer Lenovo",
             "quantity": 100,
-            "dealerName": "ABC Company",
+            "dealerName": "Gridi Mohamed yakoub",
             "price": 9.99,
             "description": "A high-quality widget with many useful features.",
             "images": [
                 {
-                    "imagePath": "path/to/image1.jpg",
+                    "imagePath": "https://c1.wallpaperflare.com/preview/88/781/192/computer-designer-desk-display.jpg",
                     "size": "1200x800"
                 },
                 {
-                    "imagePath": "path/to/image2.jpg",
+                    "imagePath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-jicjl9INnVC7lHEAQD3Cd3zX1yylx7RMw&usqp=CAU",
                     "size": "800x600"
                 }
             ],
@@ -22,18 +22,18 @@
             "phoneNumber": "555-1234"
         },
         {
-            "productName": "Widget B",
+            "productName": "Batata",
             "quantity": 50,
-            "dealerName": "XYZ Inc.",
+            "dealerName": "SAMER AMRI.",
             "price": 14.99,
             "description": "A durable widget that is built to last.",
             "images": [
                 {
-                    "imagePath": "path/to/image3.jpg",
+                    "imagePath": "https://www.caterite.co.uk/media/catalog/product/cache/392c3f40a6c0d2d4bb5ca71ac305d882/6/c/6c0922112248c9820fc01f592ce6e4eb.jpg",
                     "size": "1600x1200"
                 },
                 {
-                    "imagePath": "path/to/image4.jpg",
+                    "imagePath": "https://cdn-prod.medicalnewstoday.com/content/images/articles/280/280579/potatoes-can-be-healthful.jpg",
                     "size": "800x600"
                 }
             ],
@@ -41,18 +41,18 @@
             "phoneNumber": "555-5678"
         },
         {
-            "productName": "Widget C",
+            "productName": "Camion",
             "quantity": 200,
-            "dealerName": "123 Corp.",
+            "dealerName": "AZRI Soufiane",
             "price": 7.99,
             "description": "An affordable widget that is perfect for budget-conscious buyers.",
             "images": [
                 {
-                    "imagePath": "path/to/image5.jpg",
+                    "imagePath": "https://cdn8.ouedkniss.com/medias/announcements/images/r0XGx4/xNs2xL1dKrHPq8jYNJlcpZJTjRkQIexHB9kC4yf4.jpg",
                     "size": "1200x800"
                 },
                 {
-                    "imagePath": "path/to/image6.jpg",
+                    "imagePath": "https://cdn8.ouedkniss.com/1600/medias/announcements/images/G61978/tGMylANGVj5Hae3SWbJ0wT9lX4vDr868Oq44lLFo.jpg",
                     "size": "800x600"
                 }
             ],
