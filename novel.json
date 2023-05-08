@@ -5,7 +5,7 @@
     "year": 1925,
     "body": "In the spring of 1922, Nick Carraway moves from the Midwest to New York City to chase his American dream. He rents a small house in the fictional village of West Egg on Long Island, next door to the extravagant mansion of Jay Gatsby, a mysterious millionaire who holds extravagant parties every weekend. Nick soon becomes embroiled in the decadent social scene of the wealthy elite, and through his relationship with Gatsby, learns the truth about his past and the lengths he will go to reclaim the love of his life, Daisy Buchanan.",
     "fav": true,
-    "key": "great-gatsby",
+    "key": 1,
     "images": [
         "https://example.com/gatsby-cover.jpg",
         "https://example.com/gatsby-party.jpg"
@@ -570,7 +570,7 @@
     "year": 1925,
     "body": "In the spring of 1922, Nick Carraway moves from the Midwest to New York City to chase his American dream. He rents a small house in the fictional village of West Egg on Long Island, next door to the extravagant mansion of Jay Gatsby, a mysterious millionaire who holds extravagant parties every weekend. Nick soon becomes embroiled in the decadent social scene of the wealthy elite, and through his relationship with Gatsby, learns the truth about his past and the lengths he will go to reclaim the love of his life, Daisy Buchanan.",
     "fav": true,
-    "key": "great-gatsby",
+    "key":2,
     "images": [
         "https://example.com/gatsby-cover.jpg",
         "https://example.com/gatsby-party.jpg"
