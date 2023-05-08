@@ -1,1132 +1,162 @@
-[{
-    "title": "The Great Gatsby",
-    "status": "Completed",
-    "rating": 4.5,
-    "year": 1925,
-    "body": "In the spring of 1922, Nick Carraway moves from the Midwest to New York City to chase his American dream. He rents a small house in the fictional village of West Egg on Long Island, next door to the extravagant mansion of Jay Gatsby, a mysterious millionaire who holds extravagant parties every weekend. Nick soon becomes embroiled in the decadent social scene of the wealthy elite, and through his relationship with Gatsby, learns the truth about his past and the lengths he will go to reclaim the love of his life, Daisy Buchanan.",
-    "fav": true,
-    "key": 1,
-    "images": [
-        "https://example.com/gatsby-cover.jpg",
-        "https://example.com/gatsby-party.jpg"
-    ],
-    "chapters": [
-        {
-            "title": "Chapter 1",
-            "titleChapiter": "The Buchanans and the Carraways",
-            "text":"In my younger and more vulnerable years my father gave
-            me some advice that Ive been turning over in my mind
-            ever since.
-            Whenever you feel like criticizing any one, he told me,
-            just remember that all the people in this world havent had
-            the advantages that youve had.
-            He didnt say any more but weve always been unusually
-            communicative in a reserved way, and I understood that he
-            
-            meant a great deal more than that. In consequence Im in-
-            clined to reserve all judgments, a habit that has opened up
-            
-            many curious natures to me and also made me the victim
-            of not a few veteran bores. The abnormal mind is quick to
-            detect and attach itself to this quality when it appears in a
-            normal person, and so it came about that in college I was
-            unjustly accused of being a politician, because I was privy
-            
-            to the secret griefs of wild unknown men. Most of the con-
-            fidences were unsought—frequently I have feigned sleep,
-            
-            preoccupation, or a hostile levity when I realized by some
-            
-            unmistakable sign that an intimate revelation was quiver-
-            ing on the horizon—for the intimate revelations of young
-            
-            men or at least the terms in which they express them are
-            usually plagiaristic and marred by obvious suppressions.
-            Reserving judgments is a matter of infinite hope. I am still
-            a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat a sense
-            of the fundamental decencies is parcelled out unequally at
-            birth.
-            And, after boasting this way of my tolerance, I come to
-            the admission that it has a limit. Conduct may be founded
-            on the hard rock or the wet marshes but after a certain point
-            I dont care what its founded on. When I came back from
-            the East last autumn I felt that I wanted the world to be in
-            
-            uniform and at a sort of moral attention forever; I want-
-            ed no more riotous excursions with privileged glimpses
-            
-            into the human heart. Only Gatsby, the man who gives his
-            name to this book, was exempt from my reaction—Gatsby
-            
-            who represented everything for which I have an unaffect-
-            ed scorn. If personality is an unbroken series of successful
-            
-            gestures, then there was something gorgeous about him,
-            some heightened sensitivity to the promises of life, as if he
-            were related to one of those intricate machines that register
-            earthquakes ten thousand miles away. This responsiveness
-            had nothing to do with that flabby impressionability which
-            is dignified under the name of the creative temperament—
-            it was an extraordinary gift for hope, a romantic readiness
-            such as I have never found in any other person and which
-            it is not likely I shall ever find again. No—Gatsby turned
-            out all right at the end; it is what preyed on Gatsby, what
-            foul dust floated in the wake of his dreams that temporarily
-            
-            closed out my interest in the abortive sorrows and short-
-            winded elations of men.
-            
-            My family have been prominent, well-to-do people in
-            this middle-western city for three generations."
-        },
-        {
-            "title": "Chapter 2",
-            "titleChapiter": "The Valley of Ashes",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-        },
-        {
-            "title": "Chapter 3",
-            "titleChapiter": "The Great Gatsby's Party",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-            
-        },
-        {
-            "title": "Chapter 4",
-            "titleChapiter": "Gatsby's Past",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-        },
-        {
-            "title": "Chapter 5",
-            "titleChapiter": "Gatsby and Daisy's Reunion",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-        },
-        {
-            "title": "Chapter 6",
-            "titleChapiter": "The Truth about Gatsby",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-        },
-        {
-            "title": "Chapter 7",
-            "titleChapiter": "Gatsby's Downfall",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-        },
-        {
-            "title": "Chapter 8",
-            "titleChapiter": "The Aftermath",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-            
-        },
-        {
-            "title": "Chapter 9",
-            "titleChapiter": "The Epilogue",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-        }
-    ]
-},
 {
-    "title": "To kill monkingbird",
-    "status": "Completed",
-    "rating": 4.5,
-    "year": 1925,
-    "body": "In the spring of 1922, Nick Carraway moves from the Midwest to New York City to chase his American dream. He rents a small house in the fictional village of West Egg on Long Island, next door to the extravagant mansion of Jay Gatsby, a mysterious millionaire who holds extravagant parties every weekend. Nick soon becomes embroiled in the decadent social scene of the wealthy elite, and through his relationship with Gatsby, learns the truth about his past and the lengths he will go to reclaim the love of his life, Daisy Buchanan.",
-    "fav": true,
-    "key":2,
-    "images": [
-        "https://example.com/gatsby-cover.jpg",
-        "https://example.com/gatsby-party.jpg"
-    ],
-    "chapters": [
+    "status": "success",
+    "message": "Product data retrieved successfully",
+    "data": [
         {
-            "title": "Chapter 1",
-            "titleChapiter": "The Buchanans and the Carraways",
-            "text":"In my younger and more vulnerable years my father gave
-            me some advice that Ive been turning over in my mind
-            ever since.
-            Whenever you feel like criticizing any one, he told me,
-            just remember that all the people in this world havent had
-            the advantages that youve had.
-            He didnt say any more but weve always been unusually
-            communicative in a reserved way, and I understood that he
-            
-            meant a great deal more than that. In consequence Im in-
-            clined to reserve all judgments, a habit that has opened up
-            
-            many curious natures to me and also made me the victim
-            of not a few veteran bores. The abnormal mind is quick to
-            detect and attach itself to this quality when it appears in a
-            normal person, and so it came about that in college I was
-            unjustly accused of being a politician, because I was privy
-            
-            to the secret griefs of wild unknown men. Most of the con-
-            fidences were unsought—frequently I have feigned sleep,
-            
-            preoccupation, or a hostile levity when I realized by some
-            
-            unmistakable sign that an intimate revelation was quiver-
-            ing on the horizon—for the intimate revelations of young
-            
-            men or at least the terms in which they express them are
-            usually plagiaristic and marred by obvious suppressions.
-            Reserving judgments is a matter of infinite hope. I am still
-            a little afraid of missing something if I forget that, as my father snobbishly suggested, and I snobbishly repeat a sense
-            of the fundamental decencies is parcelled out unequally at
-            birth.
-            And, after boasting this way of my tolerance, I come to
-            the admission that it has a limit. Conduct may be founded
-            on the hard rock or the wet marshes but after a certain point
-            I dont care what its founded on. When I came back from
-            the East last autumn I felt that I wanted the world to be in
-            
-            uniform and at a sort of moral attention forever; I want-
-            ed no more riotous excursions with privileged glimpses
-            
-            into the human heart. Only Gatsby, the man who gives his
-            name to this book, was exempt from my reaction—Gatsby
-            
-            who represented everything for which I have an unaffect-
-            ed scorn. If personality is an unbroken series of successful
-            
-            gestures, then there was something gorgeous about him,
-            some heightened sensitivity to the promises of life, as if he
-            were related to one of those intricate machines that register
-            earthquakes ten thousand miles away. This responsiveness
-            had nothing to do with that flabby impressionability which
-            is dignified under the name of the creative temperament—
-            it was an extraordinary gift for hope, a romantic readiness
-            such as I have never found in any other person and which
-            it is not likely I shall ever find again. No—Gatsby turned
-            out all right at the end; it is what preyed on Gatsby, what
-            foul dust floated in the wake of his dreams that temporarily
-            
-            closed out my interest in the abortive sorrows and short-
-            winded elations of men.
-            
-            My family have been prominent, well-to-do people in
-            this middle-western city for three generations."
+            "novelTitle": "Widget A",
+            "statu": "onGoing",
+            "year": "ABC Company",
+            "body": 9.99,
+            "fav":true,
+            "description": "A high-quality widget with many useful features.",
+            "images": 
+                {
+                    "imagePath": "https://c1.wallpaperflare.com/preview/88/781/192/computer-designer-desk-display.jpg",
+                    "size": "1200x800"
+                },
+            "rating": 4.5,
+            "chapiters":[
+                [
+                    {"chapiter":"1- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1}
+                    
+                ],
+                [
+                    {"chapiter":"2 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"2Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2}
+                ],
+                [
+                    {"chapiter":"3 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3}
+                ],
+                [
+                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4}
+                ],
+                [
+                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
+                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5}
+                ],
+                [
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
+                ]
+            ]
         },
         {
-            "title": "Chapter 2",
-            "titleChapiter": "The Valley of Ashes",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
+            "novelTitle": "Widget A",
+            "statu": "onGoing",
+            "year": "ABC Company",
+            "body": 9.99,
+            "fav":true,
+            "description": "A high-quality widget with many useful features.",
+            "images": 
+                {
+                    "imagePath": "https://c1.wallpaperflare.com/preview/88/781/192/computer-designer-desk-display.jpg",
+                    "size": "1200x800"
+                },
+            "rating": 4.5,
+            "chapiters":[
+                [
+                    {"chapiter":"1- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1}
+                    
+                ],
+                [
+                    {"chapiter":"2 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"2Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2}
+                ],
+                [
+                    {"chapiter":"3 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3}
+                ],
+                [
+                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4}
+                ],
+                [
+                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
+                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5}
+                ],
+                [
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
+                ]
+            ]
         },
         {
-            "title": "Chapter 3",
-            "titleChapiter": "The Great Gatsby's Party",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-            
-        },
-        {
-            "title": "Chapter 4",
-            "titleChapiter": "Gatsby's Past",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-        },
-        {
-            "title": "Chapter 5",
-            "titleChapiter": "Gatsby and Daisy's Reunion",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-        },
-        {
-            "title": "Chapter 6",
-            "titleChapiter": "The Truth about Gatsby",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-        },
-        {
-            "title": "Chapter 7",
-            "titleChapiter": "Gatsby's Downfall",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-        },
-        {
-            "title": "Chapter 8",
-            "titleChapiter": "The Aftermath",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
-            
-        },
-        {
-            "title": "Chapter 9",
-            "titleChapiter": "The Epilogue",
-            "text":"About half way between West Egg and New York the
-            motor-road hastily joins the railroad and runs beside
-            it for a quarter of a mile so as to shrink away from a certain
-            desolate area of land. This is a valley of ashes—a fantastic
-            farm where ashes grow like wheat into ridges and hills and
-            grotesque gardens where ashes take the forms of houses and
-            
-            chimneys and rising smoke and finally with a transcen-
-            dent effort of men who move dimly and already crumbling
-            
-            through the powdery air. Occasionally a line of grey cars
-            crawls along an invisible track gives out a ghastly creak and
-            comes to rest and immediately the ash-grey men swarm up
-            with leaden spades and stir up an impenetrable cloud which
-            screens their obscure operations from your sight.
-            But above the grey land and the spasms of bleak dust
-            which drift endlessly over it you perceive after a moment
-            the eyes of Doctor T. J. Eckleburg. The eyes of Doctor T. J.
-            Eckleburg are blue and gigantic—their retinas are one yard
-            high. They look out of no face but instead from a pair of
-            enormous yellow spectacles which pass over a nonexistent
-            nose. Evidently some wild wag of an oculist set them there
-            to fatten his practice in the borough of Queens and then
-            sank down himself into eternal blindness or forgot them
-            and moved away. But his eyes dimmed a little by many
-            paintless days under sun and rain brood on over the solemn dumping ground.
-            The valley of ashes is bounded on one side by a small foul
-            river and when the drawbridge is up to let barges through
-            the passengers on waiting trains can stare at the dismal
-            scene for as long as half an hour. There is always a halt there
-            of at least a minute and it was because of this that I first met
-            Tom Buchanans mistress.
-            The fact that he had one was insisted upon wherever he
-            was known. His acquaintances resented the fact that he
-            turned up in popular restaurants with her and leaving her
-            at a table sauntered about chatting with whomsoever he
-            knew. Though I was curious to see her I had no desire to
-            meet her—but I did. I went up to New York with Tom on the
-            train one afternoon and when we stopped by the ashheaps
-            he jumped to his feet and taking hold of my elbow literally
-            forced me from the car.
-            Were getting off! he insisted. I want you to meet my
-            girl.
-            I think hed tanked up a good deal at luncheon and his
-            determination to have my company bordered on violence.
-            The supercilious assumption was that on Sunday afternoon
-            I had nothing better to do.
-            I followed him over a low white-washed railroad fence
-            
-            and we walked back a hundred yards along the road un-
-            der Doctor Eckleburgs persistent stare. The only building
-            
-            in sight was a small block of yellow brick sitting on the edge
-            of the waste land. a sort of compact Main Street ministering
-            to it and contiguous to absolutely nothing. One of the three
-            shops it contained was for rent and another was an all-night"
+            "novelTitle": "Widget A",
+            "statu": "onGoing",
+            "year": "ABC Company",
+            "body": 9.99,
+            "fav":true,
+            "description": "A high-quality widget with many useful features.",
+            "images": 
+                {
+                    "imagePath": "https://c1.wallpaperflare.com/preview/88/781/192/computer-designer-desk-display.jpg",
+                    "size": "1200x800"
+                },
+            "rating": 4.5,
+            "chapiters":[
+                [
+                    {"chapiter":"1- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1}
+                    
+                ],
+                [
+                    {"chapiter":"2 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"2Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2}
+                ],
+                [
+                    {"chapiter":"3 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3}
+                ],
+                [
+                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4}
+                ],
+                [
+                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
+                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5}
+                ],
+                [
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
+                ]
+            ]
         }
     ]
 }
-
-]
