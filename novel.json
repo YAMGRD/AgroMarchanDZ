@@ -8,50 +8,24 @@
             "year": "1925",
             "fav":false,
             "description": "In the spring of 1922, Nick Carraway moves from the Midwest to New York City to chase his American dream. He rents a small house in the fictional village of West Egg on Long Island, next door to the extravagant mansion of Jay Gatsby, a mysterious millionaire who holds extravagant parties every weekend. Nick soon becomes embroiled in the decadent social scene of the wealthy elite, and through his relationship with Gatsby, learns the truth about his past and the lengths he will go to reclaim the love of his life, Daisy Buchanan.",
-            "images": 
+            "images":
                 {
                     "imagePath": "https://upload.wikimedia.org/wikipedia/commons/7/7a/The_Great_Gatsby_Cover_1925_Retouched.jpg",
                     "imagePath2": "https://i.pinimg.com/564x/b6/26/b1/b626b1dd9055f2942efcc3ac8c772b11.jpg"
                 },
             "rating": 9,
             "chapiters":[
-                [
-                    {"chapiter":"1- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1}
-                    
-                ],
-                [
-                    {"chapiter":"2 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"2Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2}
-                ],
-                [
-                    {"chapiter":"3 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3}
-                ],
-                [
-                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4}
-                ],
-                [
-                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
-                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5}
-                ],
-                [
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
-                ]
-            ]
+                
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
+            
+        ]
         },
         {
             "novelTitle": "To Kill a Mockingbird",
@@ -59,40 +33,14 @@
             "year": 1960,
             "fav":false,
             "description": "Set in the fictional town of Maycomb, Alabama during the Great Depression, the novel explores the themes of racial injustice and the loss of innocence through the eyes of the young narrator, Scout Finch. When her father, a lawyer named Atticus Finch, is appointed to defend a black man accused of rape, Scout and her brother Jem witness firsthand the prejudice and hatred that exists in their community. Through their father's guidance, they learn the importance of empathy and standing up for what is right, even in the face of overwhelming opposition.",
-            "images": 
+            "images":
                 {
                     "imagePath": "https://i.pinimg.com/564x/72/d4/88/72d4885daa51240d7b916b778e90f172.jpg",
                     "imagePath2": "https://i.pinimg.com/564x/8f/af/5e/8faf5e39ee67c2c8e6c073a3f0af6ddf.jpg"
                 },
             "rating": 4.7,
             "chapiters":[
-                [
-                    {"chapiter":"1- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1}
-                    
-                ],
-                [
-                    {"chapiter":"2 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"2Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2}
-                ],
-                [
-                    {"chapiter":"3 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3}
-                ],
-                [
-                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4}
-                ],
-                [
-                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
-                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5}
-                ],
-                [
+                
                     {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
                     {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
                     {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
@@ -101,7 +49,7 @@
                     {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
                     {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
                     {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
-                ]
+                
             ]
         },
         {
@@ -110,50 +58,24 @@
             "year": "1950",
             "description": "The Lord of the Rings is known for its detailed world-building, complex characters, and intricate plot. The story is steeped in mythology and folklore, drawing on elements of Nordic and Celtic legends as well as Tolkien's own invented languages and histories. The series explores themes of heroism, sacrifice, friendship, and the struggle between good and evil.",
             "fav":false,
-            "images": 
+            "images":
                 {
                     "imagePath": "https://i.pinimg.com/564x/8a/38/0b/8a380b939c08e3f9d8b3d28109783669.jpg",
                     "imagePath2": "https://i.pinimg.com/564x/71/c9/80/71c9808cf56093608cdf0080c47fad4b.jpg"
                 },
             "rating": 6,
             "chapiters":[
-                [
-                    {"chapiter":"1- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1}
-                    
-                ],
-                [
-                    {"chapiter":"2 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"2Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2}
-                ],
-                [
-                    {"chapiter":"3 Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"3Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3}
-                ],
-                [
-                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"4- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                    {"chapiter":"4Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4}
-                ],
-                [
-                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"5- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
-                    {"chapiter":"5-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5}
-                ],
-                [
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
-                ]
-            ]
+                
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
+            
+        ]
         }
     ]
 }
