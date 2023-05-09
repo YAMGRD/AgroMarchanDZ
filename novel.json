@@ -16,14 +16,15 @@
             "rating": 9,
             "chapiters":[
                 
-                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
-                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5},
-                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
-                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
-                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
+                {"chapiter":" Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Nick Carraway","key":1},
+                {"chapiter":"Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Tom Buchanan","key":2},
+                {"chapiter":" Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"The Party","key":3},
+                {"chapiter":"Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"The Great Gatsbi","key":7},
+                {"chapiter":"Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"The Green Light","key":4},
+                {"chapiter":"Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"The Truth","key":5},
+                {"chapiter":"Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Gatsby's Party","key":6},
+                {"chapiter":"Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"The Last Night","key":7},
+                {"chapiter":"Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"The End of the Dream","key":8}
             
         ]
         },
@@ -41,15 +42,24 @@
             "rating": 4.7,
             "chapiters":[
                 
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
-                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
-                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
-                
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"When he was nearly thirteen, my brother Jem got his arm badly broken at the elbow...","key":1},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"When I was almost six years old, I got into trouble for playing in the road in front of our house...","key":2},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Our mother died when I was two, so I never felt her absence...","key":3},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Because I knew nothing good could come from being at school...","key":4},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"I had been in first grade so long I couldn’t remember when I started...","key":5},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Mr. Arthur Radley, or Boo, as the children called him, was a man the children had never seen...","key":6},
+                    {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Jem was twelve. He was difficult to live with, inconsistent, moody..","key":7},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"We had moved to our present residence on the street called Alabama...","key":8},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Summer was on the way; Jem and I awaited it with impatience...","key":9},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"We were surprised to find a batch of fruitcakes from California in the kitchen...","key":10},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"When we were small, Jem and confined our activities to the southern neighborhood...","key":11},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Jem was twelve. He was difficult to live with, inconsistent, moody...","key":12},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"I felt the starched walls of a pink cotton penitentiary closing in on me...","key":13},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"We had moved to our present residence on the street called Alabama...","key":14},
+                     {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"We had moved to our present residence on the street called Alabama...","key":15},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"We had moved to our present residence on the street called Alabama...","key":16},
+                    {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"We had moved to our present residence on the street called Alabama...","key":17}
+
             ]
         },
         {
@@ -66,14 +76,18 @@
             "rating": 6,
             "chapiters":[
                 
-                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":1},
-                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":2},
-                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":3},
-                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":4},
-                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":5},
-                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":6},
-                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":7},
-                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Death","key":8}
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"A Long-Expected Party","key":1},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"The Shadow of the Past","key":2},
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Three is Company","key":3},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"A Short Cut to Mushrooms","key":4},
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"A Conspiracy Unmasked","key":5},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"The Old Forest","key":6},
+                {"chapiter":"7- Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"In the House of Tom Bombadil","key":7},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Fog on the Barrow-Downs","key":8},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"At the Sign of The Prancing Pony","key":9},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Strider","key":10},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"A Knife in the Dark","key":11},
+                {"chapiter":"8-Lorem ipsum dolor sit amet, Duis aute irure dolor in","chpiterTitle":"Flight to the Ford","key":12}
             
         ]
         }
