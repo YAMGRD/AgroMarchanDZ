@@ -2,7 +2,7 @@
     "status": "success",
     "message": "Product data retrieved successfully",
     "data": [
-        {
+        {   "id":1,
             "novelTitle": "The Great Gatsbi",
             "statu": "Completed",
             "year": "1925",
@@ -29,6 +29,7 @@
         ]
         },
         {
+            "id":2,
             "novelTitle": "To Kill a Mockingbird",
             "statu": "Completed",
             "year": 1960,
@@ -63,6 +64,7 @@
             ]
         },
         {
+            "id":3,
             "novelTitle": "The Lord of the Rings",
             "statu": "completed",
             "year": "1950",
