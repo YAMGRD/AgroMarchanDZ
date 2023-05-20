@@ -3,7 +3,7 @@
     "message": "Product data retrieved successfully",
     "data": [
         {
-            id:1,
+            "id":1,
             "productName": "Widget A",
             "quantity": 100,
             "dealerName": "ABC Company",
@@ -18,7 +18,7 @@
             "rating": 4.5
         },
         {
-            id:2,
+           "id":2,
             "productName": "Widget B",
             "quantity": 50,
             "phoneNumber":"06-32-45-98-22",
@@ -33,7 +33,7 @@
             "rating": 4.2
         },
         {
-            id:3,
+            "id":3,
             "productName": "Widget C",
             "quantity": 200,
             "dealerName": "123 Corp.",
