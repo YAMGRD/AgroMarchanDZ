@@ -1,0 +1,51 @@
+{
+    "status": "success",
+    "message": "Product data retrieved successfully",
+    "data": [
+        {
+            "id":1,
+            "productName": "Widget A",
+            "quantity": 100,
+            "dealerName": "ABC Company",
+            "price": 9.99,
+            "phoneNumber":"06-32-45-98-22",
+            "description": "A high-quality widget with many useful features. A high-quality widget with many useful features.",
+            "images": 
+                {
+                    "imagePath": "https://c1.wallpaperflare.com/preview/88/781/192/computer-designer-desk-display.jpg",
+                    "size": "1200x800"
+                },
+            "rating": 4.5
+        },
+        {
+           "id":2,
+            "productName": "Widget B",
+            "quantity": 50,
+            "phoneNumber":"06-32-45-98-22",
+            "dealerName": "XYZ Inc.",
+            "price": 14.99,
+            "description": "A durable widget that is built to last.",
+            "images": 
+                {
+                    "imagePath": "https://media.newyorker.com/photos/61a5800b07516aaf7967f1ee/master/w_2560%2Cc_limit/Monroe-OldTrucksNewMoney.jpg",
+                    "size": "1200x800"
+                },
+            "rating": 4.2
+        },
+        {
+            "id":3,
+            "productName": "Widget C",
+            "quantity": 200,
+            "dealerName": "123 Corp.",
+            "phoneNumber":"06-32-45-98-22",
+            "price": 7.99,
+            "description": "An affordable widget that is perfect for budget-conscious buyers.",
+            "images": 
+                {
+                    "imagePath": "https://hips.hearstapps.com/hmg-prod/images/why-you-should-never-store-potatoes-in-the-fridge-640b0b8a0a49a.jpg",
+                    "size": "1200x800"
+                },
+            "rating": 4.8
+        }
+    ]
+}
